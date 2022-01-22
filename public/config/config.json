@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x89746047dca4b0040e28c42579859ec379293e70",
+  "SCAN_LINK": "https://polygonscan.com/token/0x89746047dca4b0040e28c42579859ec379293e70",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Buildings",
+  "SYMBOL": "ABCZB",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 10000000000000000000,
+  "DISPLAY_COST": 10,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/BuildingsNFT",
+  "SHOW_BACKGROUND": false
+}
