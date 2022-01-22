@@ -11,4 +11,7 @@
 - Dapp starter code [Hashlips minting dapp](https://github.com/HashLips/hashlips_nft_minting_dappx)
 - Layers made with [Adobe Photoshop and Illustrator](https://www.adobe.com/)
 
-##### 🚀Join the [Discord Community](https://discord.gg/UbSuvRgG)
+##### Get Involved
+
+- 🚀Join the [Discord Community](https://discord.gg/UbSuvRgG)
+- 🧊 View on [OpenSea](https://opensea.io/BuildingsNFT)
